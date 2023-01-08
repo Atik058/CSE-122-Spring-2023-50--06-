@@ -1,3 +1,5 @@
+// codeforce A4 solution //
+
 #include <stdio.h>
 main()
 {
