@@ -9,4 +9,4 @@ Email: yatique26@gmail.com
 
 Intake: 50
 
-Section: 02
+Section: 06
